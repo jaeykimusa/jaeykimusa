@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="assets/gifs/to_backflip.gif" alt="Simplified backflip." width="450"/>
+<img src="assets/gifs/to_backflip.gif" alt="Simplified backflip." width="350"/>
 
 <!--
 **jaeykimusa/jaeykimusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
