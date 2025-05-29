@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="assets/gifs/to_backflip.gif" alt="Simplified backflip." width="450"/>
+
+<!--
 **jaeykimusa/jaeykimusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,8 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="assets/gifs/to_backflip.gif" alt="Simplified backflip." width="450"/>
+-->
 
 <!--
 <h2 align="center"> <p> 🤖 🦾 RPM Robotics Lab 🚗 📷 </p></h2>
